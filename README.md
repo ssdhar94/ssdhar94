@@ -18,7 +18,7 @@ I'm passionate about **anything that flies** — UAVs, aircrafts, missiles.
 Currently, I’m exploring **Visual SLAM** and **Navigation in GNSS denied environments** and how autonomous systems can perceive, localize, and make decisions without relying on GPS.
 
 Interests:
-**Visual SLAM | Deep Learning | Computer Vision**
+**Visual SLAM | Motion Planning | Control Systems**
 
 Skills:
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/> &nbsp;
